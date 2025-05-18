@@ -1,0 +1,25 @@
+part_input_file       TANK3DDouble.in   
+time_end              5.0                                   
+timestep_length       0.001
+part_out_freq     	  100000
+part_out_name_base    TANK3D_
+vtk_out_freq          10
+vtk_out_name_base     TANK3D_
+gravity               -1.5
+rho_o                 10
+mu                    1.0
+k                     3
+h                     0.15
+H                     1.4
+gamma                 7         
+x_min                 0
+y_min                 0
+z_min                 0
+x_max                 6
+y_max                 6
+z_max                 6
+x_n                   40
+y_n                   40
+z_n                   40                      
+                           
+

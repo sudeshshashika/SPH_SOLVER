@@ -1,0 +1,25 @@
+part_input_file       column.in   
+time_end              2.0                                   
+timestep_length       0.001
+part_out_freq     	  1000000
+part_out_name_base    column_
+vtk_out_freq          10
+vtk_out_name_base     column_
+gravity               -2.0
+rho_o                 10000.0
+mu                    0.00085
+k                     3.0
+h                     0.15
+H                     1.0
+gamma                 7         
+x_min                 0
+y_min                 0
+z_min                 0
+x_max                 6
+y_max                 6
+z_max                 6
+x_n                   40
+y_n                   40
+z_n                   40                      
+                           
+
